@@ -1,0 +1,12 @@
+ 
+
+.nav-btn a {
+  justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+  .nav-btn {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

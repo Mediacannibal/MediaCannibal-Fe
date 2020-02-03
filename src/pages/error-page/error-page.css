@@ -1,0 +1,25 @@
+ 
+
+.page--error-page h1 {
+  color: var(--color-black);
+}
+
+.section--404 {
+  text-align: center;
+}
+
+.container--error-page {
+  position: static !important;
+}
+
+.section--404 .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.section--404 .nav-btn {
+  margin-right: auto;
+  margin-left: auto;
+}

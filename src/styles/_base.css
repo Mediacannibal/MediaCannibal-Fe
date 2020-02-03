@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+@media screen and (max-width: 767px) {
+  html {
+    font-size: 60%;
+  }
+}
+
+@media screen and (max-width: 419px) {
+  html {
+    font-size: 55%;
+  }
+}
+
+body {
+  box-sizing: border-box;
+  font-family: var(--regular);
+  font-size: var(--default-font-size);
+  color: var(--color-text-black);
+  line-height: 1.8;
+  position: relative;
+  font-smoothing: antialiased !important;
+}
