@@ -49,11 +49,11 @@ class About extends Component {
   render () {
 
     const meta = {
-      title: 'About Us | Ethereal Machines | Bangalore, India',
+      title: 'About Us | MediaCannibal    | Bangalore, India',
       meta: {
         property: {
-          'title': 'About Us | Ethereal Machines | Bangalore, India',
-           'description': 'Ethereal Machines – Manufacturers of 5-axis CNC Machines and 3D Printers.',
+          'title': 'About Us | MediaCannibal    | Bangalore, India',
+           'description': 'MediaCannibal    – Manufacturers of 5-axis CNC   and 3D Printers.',
           }
       }
     };
@@ -61,23 +61,23 @@ class About extends Component {
     return (
       <div className="page page--about">
         {/* <Helmet>
-        <title>About Us | Ethereal Machines | Bangalore, India</title>
-        <meta name="description" content="Ethereal Machines – Manufacturers of 5-axis CNC Machines and 3D Printers."/>
+        <title>About Us | MediaCannibal    | Bangalore, India</title>
+        <meta name="description" content="MediaCannibal    – Manufacturers of 5-axis CNC   and 3D Printers."/>
         </Helmet> */}
         <DocumentMeta {...meta} />
 
-        <PageBanner heading={"Know about Ethereal Machines"} subHeading={"Who are we and what do we do?"} classValue={'page-banner--about'}/>
+        <PageBanner heading={"Know about MediaCannibal   "} subHeading={"Who are we and what do we do?"} classValue={'page-banner--about'}/>
         <section className="section section--about-us">
           <div className="container">
-            <SectionHeading classValue={'u-margin-bottom-big u-text-center'} name={'About Ethereal Machines'}/>
+            <SectionHeading classValue={'u-margin-bottom-big u-text-center'} name={'About MediaCannibal   '}/>
             <AboutUs />
           </div>
         </section>
         <section className="section section--journey section--background-fill">
           <div className="container">
-            <SectionHeading classValue={'u-margin-bottom-big u-text-center u-text-white'} name={'The Ethereal Journey'}/>
+            <SectionHeading classValue={'u-margin-bottom-big u-text-center u-text-white'} name={'The MediaCannibal  Journey'}/>
             <LazyLoad height={200} offset={100} once>
-              <EtherealJourney />
+            <EtherealJourney />
             </LazyLoad>
           </div>
         </section>

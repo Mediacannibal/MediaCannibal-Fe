@@ -20,12 +20,12 @@ class Home extends Component {
   render() {
     return (
       <div className="page page--home">
-        <PageBanner heading={"Welcome to Ethereal Machines"} subHeading={"We build the future of manufacturing. We create entrepreneurs."} classValue={"page-banner--home"} />
+        <PageBanner heading={"Welcome to MediaCannibal   "} subHeading={"We build the future of manufacturing. We create entrepreneurs."} classValue={"page-banner--home"} />
         <section className="company-brief">
           <div className="container">
             <div className="detail-text">
-              <p>Ethereal Machines is a leading manufacturer of 5-axis CNC Machines and 3D Printers in India, based out of Bangalore. Our flagship product the Ethereal Halo, combines the technologies of subtractive and additive manufacturing into one bundle to replicate the capabilities of a large factory on a desktop scale.</p>
-              <p>Our other products are Ethereal Ray, Ethereal pentagram and Ethereal 3D Concrete Printer.</p>
+              <p>MediaCannibal    is a leading manufacturer of 5-axis CNC   and 3D Printers in India, based out of Bangalore. Our flagship product the MediaCannibal  Halo, combines the technologies of subtractive and additive manufacturing into one bundle to replicate the capabilities of a large factory on a desktop scale.</p>
+              <p>Our other products are MediaCannibal  Ray, MediaCannibal  pentagram and MediaCannibal  3D Concrete Printer.</p>
             </div>
           </div>
         </section>
@@ -47,7 +47,7 @@ class Home extends Component {
         </section>
         <section className="section section--in-media">
           <div className="container">
-            <SectionHeading name={"Ethereal Machines in Media"} classValue={"u-margin-bottom-big u-text-center"} />
+            <SectionHeading name={"MediaCannibal    in Media"} classValue={"u-margin-bottom-big u-text-center"} />
             <LazyLoad height={200} offset={200} once>
               <HomePageMedia />
             </LazyLoad>

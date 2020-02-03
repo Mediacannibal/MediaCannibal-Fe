@@ -4,7 +4,7 @@
 import axios from 'axios';
 
 const loginInstance = axios.create({
-    baseURL: 'https://api2.etherealmachines.com'
+    baseURL: 'https://api2.MediaCannibal.com'
 });
 
 const loginUser = (callback, data) => {

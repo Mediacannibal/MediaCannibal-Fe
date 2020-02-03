@@ -195,11 +195,11 @@ class ContactUs extends Component {
   }
   render() {
     const meta = {
-      title: 'Contact us | Ethereal Machines-Bangalore, India.',
+      title: 'Contact us | MediaCannibal   -Bangalore, India.',
       meta: {
         property: {
-          'title': 'Contact us | Ethereal Machines-Bangalore, India.',
-           'description': ' Ethereal Machines – get in touch with us.',
+          'title': 'Contact us | MediaCannibal   -Bangalore, India.',
+           'description': ' MediaCannibal    – get in touch with us.',
           }
       }
     };
@@ -210,12 +210,12 @@ class ContactUs extends Component {
         </Modal>
         <div className="page page--contact-us">
         {/* <Helmet>
-        <title>Contact us | Ethereal Machines-Bangalore, India.</title>
-        <meta name="description" content="Ethereal Machines – get in touch with us."/>
+        <title>Contact us | MediaCannibal   -Bangalore, India.</title>
+        <meta name="description" content="MediaCannibal    – get in touch with us."/>
         </Helmet> */}
 
 <DocumentMeta {...meta} />
-          <PageBanner heading={"Get in touch with Ethereal Machines"} subHeading={"Let's talk."} classValue={"page-banner--contact-us"} />
+          <PageBanner heading={"Get in touch with MediaCannibal   "} subHeading={"Let's talk."} classValue={"page-banner--contact-us"} />
           <section className="section section--contact-us-form">
             <div className="container">
             {

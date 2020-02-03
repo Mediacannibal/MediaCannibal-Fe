@@ -265,11 +265,11 @@ class Careers extends Component {
       }
     }
     const meta = {
-      title: 'About Us | Ethereal Machines | Bangalore, India',
+      title: 'About Us | MediaCannibal    | Bangalore, India',
       meta: {
         property: {
-          'title': 'About Us | Ethereal Machines | Bangalore, India',
-           'description': 'Ethereal Machines – Join us in building the next big thing.',
+          'title': 'About Us | MediaCannibal    | Bangalore, India',
+           'description': 'MediaCannibal    – Join us in building the next big thing.',
           }
       }
     };
@@ -302,12 +302,12 @@ class Careers extends Component {
         }
         <div className="page page--careers">
         {/* <Helmet>
-        <title>Careers at Ethereal Machines-Bangalore,India</title>
-        <meta name="description" content="Ethereal Machines – Join us in building the next big thing."/>
+        <title>Careers at MediaCannibal   -Bangalore,India</title>
+        <meta name="description" content="MediaCannibal    – Join us in building the next big thing."/>
         </Helmet> */}
                 <DocumentMeta {...meta} />
 
-          <PageBanner heading={"Careers in Ethereal Machines"} subHeading={"Make your dream job come true"} classValue={"page-banner--careers"} />
+          <PageBanner heading={"Careers in MediaCannibal   "} subHeading={"Make your dream job come true"} classValue={"page-banner--careers"} />
           <section className="section section--openings">
             <div className="container">
               {
@@ -351,7 +351,7 @@ class Careers extends Component {
                   </div>
                 : null
               } */}
-              <p className="u-text-center">We are happy you are thinking about a profession with Ethereal Machines, Bangalore, India! Let us join forces to put India on the world map. Together, we shall disrupt the Deep-Tech industry. Let’s create the future leader of Deep-Tech from India.</p>
+              <p className="u-text-center">We are happy you are thinking about a profession with MediaCannibal   , Bangalore, India! Let us join forces to put India on the world map. Together, we shall disrupt the Deep-Tech industry. Let’s create the future leader of Deep-Tech from India.</p>
             </div>
           </section>
           <section className="section section--careers-form section-no-top-padding">

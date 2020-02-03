@@ -152,11 +152,11 @@ class DesignHelp extends Component {
 
   render() {
     const meta = {
-      title: 'Ethereal Machines - CAD/CAM Design or Programming Help',
+      title: 'MediaCannibal    - CAD/CAM Design or Programming Help',
       meta: {
         property: {
-          'title': 'Ethereal Machines - CAD/CAM Design or Programming Help',
-           'description': 'Ethereal Machines is glad to assist you with CAD/CAM programming for CNC machining and 3D Printing.',
+          'title': 'MediaCannibal    - CAD/CAM Design or Programming Help',
+           'description': 'MediaCannibal    is glad to assist you with CAD/CAM programming for CNC machining and 3D Printing.',
           }
       }
     };
@@ -167,8 +167,8 @@ class DesignHelp extends Component {
         </Modal>
         <div className="page page--contact-us">
         {/* <Helmet>
-        <title>Design Help | Ethereal Machines-Bangalore, India.</title>
-        <meta name="description" content="Ethereal Machines – get in touch with us."/>
+        <title>Design Help | MediaCannibal   -Bangalore, India.</title>
+        <meta name="description" content="MediaCannibal    – get in touch with us."/>
         </Helmet> */}
 
         <DocumentMeta {...meta} />

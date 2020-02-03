@@ -1,9 +1,9 @@
-## Etherealmachines.com (Official Website of Ethereal Machines)
+## MediaCannibal.com (Official Website of MediaCannibal   )
 
 ### Introduction
-The official website of Ethereal Machines have been built using the latest Frontend technologies.
+The official website of MediaCannibal    have been built using the latest Frontend technologies.
 
-This project is built up using the Component Based approach of React. The source code for the project can be find [here](https://github.com/Ethereal-Machines/Ethereal).
+This project is built up using the Component Based approach of React. The source code for the project can be find [here](https://github.com/MediaCannibal - /MediaCannibal ).
 
 ### Technologies Used
 - React JS (Library to build the frontend)
@@ -22,11 +22,11 @@ This project is built up using the Component Based approach of React. The source
 ### Installation
 - clone repository
 ```bash
-git clone https://github.com/Ethereal-Machines/Ethereal.git
+git clone https://github.com/Mediacannibal/MediaCannibal-Fe.git
 ```
 - Change directory to repository
 ```bash
-cd Ethereal
+cd MediaCannibal-Fe 
 ```
 - Install dependencies from `package.json` file
 ```bash
@@ -43,8 +43,8 @@ npm start
 
 The backend for the website has been built on python and REST APIs are used for fetching the data from the server. The schema for all the APIs used can be found on the below link:
 
-[https://api.etherealmachines.com/](https://api.etherealmachines.com/)
+[https://api.MediaCannibal.com/](https://api.MediaCannibal.com/)
 
 For more information about the backend can be obtained in through the below link:
 
-[https://bitbucket.org/etherealmachines/ethereal-machines-backend/src/master/docs/](https://bitbucket.org/etherealmachines/ethereal-machines-backend/src/master/docs/)
+[https://bitbucket.org/MediaCannibal  /MediaCannibal - -backend/src/master/docs/](https://bitbucket.org/MediaCannibal  /MediaCannibal-backend/src/master/docs/)

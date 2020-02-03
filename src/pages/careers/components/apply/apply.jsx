@@ -47,7 +47,7 @@ class Apply extends Component{
         return(
             <React.Fragment>
                 <div className="page page--careers">
-                    <PageBanner heading={"Careers in Ethereal Machines"} subHeading={"Make your dream job come true"} classValue={"page-banner--careers"} />
+                    <PageBanner heading={"Careers in MediaCannibal   "} subHeading={"Make your dream job come true"} classValue={"page-banner--careers"} />
                     <section className="section section--openings">
                         { 
                             this.state.errMsg === 'Not Found'

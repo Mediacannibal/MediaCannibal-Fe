@@ -9,13 +9,13 @@ const features = [
     id: 1,
     iconUrl: pioneers,
     subtitle: 'Pioneers',
-    text: 'We are a harbinger of advancement in technologies related to subtractive and additive manufacturing. We are the first to introduce the concept of hybrid manufacturing on 5 axis machines on the desktop scale.'
+    text: 'We are a harbinger of advancement in technologies related to subtractive and additive manufacturing. We are the first to introduce the concept of hybrid manufacturing on 5 axis   on the desktop scale.'
   },
   {
     id: 2,
     iconUrl: experience,
     subtitle: 'Experience',
-    text: 'We have dedicated our lives to understand the intricate requirements of the manufacturing industry and have followed up on iterations of our machines according to industry and SME needs.'
+    text: 'We have dedicated our lives to understand the intricate requirements of the manufacturing industry and have followed up on iterations of our   according to industry and SME needs.'
   },
   {
     id: 3,

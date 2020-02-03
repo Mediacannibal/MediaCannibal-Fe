@@ -50,7 +50,7 @@ class Media extends Component {
   }
 
   componentDidMount() {
-    document.title = `MIA | Ethereal Machines | Bangalore, India`;
+    document.title = `MIA | MediaCannibal    | Bangalore, India`;
     // scrolling the component to the top when the page is mounted
     window.scrollTo(0, 0);
 
@@ -175,11 +175,11 @@ class Media extends Component {
       );
     }
     const meta = {
-      title: 'Media Coverage – CNC Machine,3D printer |Ethereal Machines-Bangalore, India.',
+      title: 'Media Coverage – CNC Machine,3D printer |MediaCannibal   -Bangalore, India.',
       meta: {
         property: {
-          'title': 'Media Coverage – CNC Machine,3D printer |Ethereal Machines-Bangalore, India.',
-           'description': 'Ethereal Machines – Media Coverage: simultaneous 5-axis CNC Machine & 3D Printer.',
+          'title': 'Media Coverage – CNC Machine,3D printer |MediaCannibal   -Bangalore, India.',
+           'description': 'MediaCannibal    – Media Coverage: simultaneous 5-axis CNC Machine & 3D Printer.',
           }
       }
     };
@@ -187,8 +187,8 @@ class Media extends Component {
       <React.Fragment>
       <div className="page page--media">
         {/* <Helmet>
-        <title>Media Coverage – CNC Machine,3D printer |Ethereal Machines-Bangalore, India.</title>
-        <meta name="description" content="Ethereal Machines – Media Coverage: simultaneous 5-axis CNC Machine & 3D Printer."/>
+        <title>Media Coverage – CNC Machine,3D printer |MediaCannibal   -Bangalore, India.</title>
+        <meta name="description" content="MediaCannibal    – Media Coverage: simultaneous 5-axis CNC Machine & 3D Printer."/>
         </Helmet> */}
         <DocumentMeta {...meta} />
 
@@ -212,7 +212,7 @@ class Media extends Component {
           </Modal>
           : null
         }
-          <PageBanner heading={"Ethereal Machines in Media"} classValue={'page-banner--media'}/>
+          <PageBanner heading={"MediaCannibal    in Media"} classValue={'page-banner--media'}/>
           <section className="section section--media">
             <div className="container">
               {/* <SectionHeading name={"What media says about us"} classValue={"u-margin-bottom-big u-text-center"}/> */}

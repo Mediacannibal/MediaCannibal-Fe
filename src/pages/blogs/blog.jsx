@@ -125,11 +125,11 @@ class Blogs extends Component{
     });
 
     const meta = {
-      title: 'Blogs – CNC Machine,3D printer |Ethereal Machines-Bangalore, India.',
+      title: 'Blogs – CNC Machine,3D printer |MediaCannibal   -Bangalore, India.',
       meta: {
         property: {
-          'title': 'CNC Machine,3D printer |Ethereal Machines-Bangalore, India.',
-           'description': 'Ethereal Machines – Blogs: simultaneous 5-axis CNC Machine & 3D Printer.',
+          'title': 'CNC Machine,3D printer |MediaCannibal   -Bangalore, India.',
+           'description': 'MediaCannibal    – Blogs: simultaneous 5-axis CNC Machine & 3D Printer.',
           }
       }
     };
@@ -137,8 +137,8 @@ class Blogs extends Component{
       return (
           <div className="page page--blogs-page">
             {/* <Helmet>
-            <title>Blogs – CNC Machine,3D printer |Ethereal Machines-Bangalore, India.</title>
-            <meta name="description" content="Ethereal Machines – Blogs: simultaneous 5-axis CNC Machine & 3D Printer."/>
+            <title>Blogs – CNC Machine,3D printer |MediaCannibal   -Bangalore, India.</title>
+            <meta name="description" content="MediaCannibal    – Blogs: simultaneous 5-axis CNC Machine & 3D Printer."/>
             </Helmet> */}
             <DocumentMeta {...meta} />
             {
@@ -149,7 +149,7 @@ class Blogs extends Component{
               </Modal>
               : null
             }
-            <PageBanner heading={'Ethereal Machines Blogs'} subHeading={'Dream | Design | Create'} classValue={'page-banner--blogs-page'}/>
+            <PageBanner heading={'MediaCannibal    Blogs'} subHeading={'Dream | Design | Create'} classValue={'page-banner--blogs-page'}/>
             <section className="section section--blogs">
               <div className="container">
                 {

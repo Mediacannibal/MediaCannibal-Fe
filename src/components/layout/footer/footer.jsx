@@ -81,22 +81,22 @@ class Footer extends Component{
               <div className="footer-title">Connect with us</div>
               <ul className="links-list" type="social-media-list">
                 <li className="link-item link-item--social-media">
-                  <a href="https://www.facebook.com/etherealmachines" target="_blank">
+                  <a href="#" target="_blank">
                     <img src={facebook} alt="Facebook" width="30" height="30" />
                   </a>
                 </li>
                 <li className="link-item link-item--social-media">
-                  <a href="https://www.instagram.com/ethereal_machines/" target="_blank">
+                  <a href="#" target="_blank">
                     <img src={insta} alt="Instagram" width="30" height="30" />
                   </a>
                 </li>
                 <li className="link-item link-item--social-media">
-                  <a href="https://twitter.com/etherealmachine" target="_blank">
+                  <a href="#" target="_blank">
                     <img src={twitter} alt="Twitter" width="30" height="30" />
                   </a>
                 </li>
                 <li className="link-item link-item--social-media">
-                  <a href="https://www.linkedin.com/company/etherealmachines/" target="_blank">
+                  <a href="#" target="_blank">
                     <img src={linkedin} alt="Linkedin" width="30" height="30" />
                   </a>
                 </li>
@@ -109,7 +109,7 @@ class Footer extends Component{
             </div>
           </div>
           <div className="copyright-box">
-            Copyright &copy; 2018. Ethereal Machines Pvt Ltd. All rights reserved.
+            Copyright &copy; 2018. MediaCannibal    Pvt Ltd. All rights reserved.
           </div>
         </div>
       </footer>

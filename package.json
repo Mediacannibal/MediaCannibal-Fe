@@ -1,8 +1,8 @@
 {
-  "name": "etherealmachines.com",
+  "name": "mediacannibal.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://etherealmachines.com",
+  "homepage": "https://MediaCannibal.com",
   "dependencies": {
     "@material-ui/core": "^3.0.2",
     "@material-ui/icons": "^3.0.1",
